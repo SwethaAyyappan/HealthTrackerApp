@@ -1,18 +1,8 @@
-
-# Ignore compiled files
 bin/
 *.class
-
-# Ignore system files
-.DS_Store
-
-# Ignore logs
+.DS_Store 
 *.log
-
-# Ignore IDE/Eclipse settings
 .project
 .classpath
 .settings/
-
-# Ignore backup files
 *.bak
